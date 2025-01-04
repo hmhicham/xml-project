@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ville nom="baba hassen">
+  <descriptif>test</descriptif>
+  <sites>
+    <site nom="cdta">
+      <photo>Capture2.PNG</photo>
+    </site>
+  </sites>
+  <hotels>
+    <hotel>hotal 1</hotel>
+  </hotels>
+  <restaurants>
+    <restaurant>restaurante 1</restaurant>
+  </restaurants>
+  <gares>
+    <gare>gares 1</gare>
+  </gares>
+  <aeroports>
+    <aeroport>aeroport 1</aeroport>
+  </aeroports>
+</ville>
+
